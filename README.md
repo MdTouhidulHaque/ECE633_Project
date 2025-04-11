@@ -13,7 +13,7 @@ This project investigates switching transient phenomena and neutral grounding re
 - Ensure successful single-pole auto-reclosing and resonant overvoltage control using the designed NGR.
 
 ### Case Study
-The Adani--Rahanpur 400\,kV double-circuit shunt-compensated transmission line is selected as the case study for switching transient overvoltage study and NGR design. This line is a cross-border AC high-voltage corridor developed for importing power from Adani Power's Godda thermal power plant in India into the transmission grid system in Bangladesh.All simulations are conducted in **PSCAD/EMTDC** 4.5 version. 
+The Adani--Rahanpur 400kV double-circuit shunt-compensated transmission line is selected as the case study for switching transient overvoltage study and NGR design. This line is a cross-border AC high-voltage corridor developed for importing power from Adani Power's Godda thermal power plant in India into the transmission grid system in Bangladesh.
 
 ### Simulation Environment
 All simulations are conducted in **PSCAD/EMTDC** 4.5 version. 
